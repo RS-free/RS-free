@@ -1,5 +1,3 @@
-<h1>This «thing» is under construction... 👨‍🎨</h1>
-
 ### Hi there, I'm Ruslan 👋
 
 - I’m student GoIT
