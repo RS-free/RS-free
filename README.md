@@ -1,4 +1,4 @@
-<h1>In the darkness of the night, in the light of day, I am looking for an error in the code ...</h1>
+<h2>In the darkness of the night, in the light of day, I am looking for an error in the code ...</h2>
 
 ### Hi there, I'm Ruslan 👋
 
