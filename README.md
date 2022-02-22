@@ -3,7 +3,7 @@
 ### Hi there, I'm Ruslan 👋
 
 - I’m student GoIT
-- I am currently studying a java script
+- I am currently studying a react
 
 ### My stack and tools
 
