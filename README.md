@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Ruslan 👋
 
-- I’m student GoIT
-- I am currently studying a react
+<!-- - I’m student GoIT
+- I am currently studying a react -->
 
 ### My stack and tools
 
